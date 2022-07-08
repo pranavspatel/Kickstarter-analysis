@@ -27,7 +27,7 @@ Lastly, the month of July saw the highest cancellation of 43 projects.
 The highest number of successful projects are in the range of 1000 to 5000 dollars. 
 
 Projects with a target of more than 45000 dollars are having very high failure rate. 
-
+!Outcomes_vs_Goals(https://github.com/pranavspatel/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
